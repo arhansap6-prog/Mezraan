@@ -1,0 +1,6 @@
+{
+  "name": "NICE Perfumes",
+  "description": "MEZRAAN PERFUME — Pure Non-Alcoholic Attar, French Luxury Perfumes & Royal Fragrances. Berhampur, Odisha. WhatsApp: +91 7788993123.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
